@@ -1,0 +1,19 @@
+#logo {
+    witdh: 35px;
+    height: 35px;
+}
+body {
+    background-color: cadetBlue;
+}
+
+h1, p {
+    text-align: center;
+}
+
+#nav-home {
+    background-color: red;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
